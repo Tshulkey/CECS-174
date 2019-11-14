@@ -1,1 +1,1 @@
-This Hw uses pycharm and plays music based on the notes given.
+Hw 3 Uses pycharm and plays music based on the notes given.
